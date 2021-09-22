@@ -3,6 +3,7 @@
 A grandes rasgos todo el codigo acá presentado hace lo que se necesita, la parte que es necesario modificar (y mejorar) para darle distintas aplicaciones es el muestreo de monte carlo, puesto que para distribuciones de cola larga presenta problemas 
 
 # Install ME
+  
 
 # About Me
 
